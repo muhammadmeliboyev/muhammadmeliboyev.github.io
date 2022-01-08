@@ -8,6 +8,11 @@
     --grad: linear-gradient(to right,#fa7070,#fee140);;
 }
 
+.products p {
+    color: #eee;
+}
+
+
 
 
 *{
